@@ -4,8 +4,6 @@
 # Description: This code gets 3 integers from user then displays the maximum number they entered.
 
 
-
-
 def MaxNumber(nFirst, nSecond, nThird):
     if ((nFirstNum > nSecondNum) and (nFirstNum > nThirdNum)):
         return nFirstNum
